@@ -1,0 +1,6 @@
+python-dotenv
+aiogram
+requests
+rapidfuzz
+python-Levenshtein
+tqdm
